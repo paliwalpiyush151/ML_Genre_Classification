@@ -1,6 +1,6 @@
 # Classification of Fiction and Nonfiction Genre using Machine Learning
 
-Brown Corpus data set is used train Machine Learning model for Text classification task. Brown Corpus dataset contains text paragraph with frequency of Verb, Noun, Pronoun, Adverb, and Adjective which act are features of text data. These features are used in classification algorithm. In this project, various derived features like ratio, multiplication, addition, and subtraction of primary features are used to check the accuracy of ML algorithms. 
+Brown Corpus data set is used train Machine Learning model for Text classification task. Brown Corpus dataset contains text paragraph with frequency of Verb, Noun, Pronoun, Adverb, and Adjective which act as features of text data. These features are used in classification algorithm. In this project, various derived features like ratio, multiplication, addition, and subtraction of primary features are used to check the accuracy of ML algorithms. 
 
 ## Documentation
 
