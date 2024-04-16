@@ -14,4 +14,4 @@ This project is created with help of research article below. Analysis of primary
 
  - Mohammed Rameez Qureshi, Sidharth Ranjan, Rajakrishnan Rajkumar, and Kushal Shah. 2019. A Simple Approach to Classify Fictional and Non-Fictional Genres. In Proceedings of the Second Workshop on Storytelling, pages 81–89, Florence, Italy. Association for Computational Linguistics.
 
-This research article is also provide in this repo for reference. 
+This research article is also provided in this repo for reference. 
